@@ -1,0 +1,15 @@
+version: '3.3'
+
+volumes:
+  sequences:
+
+services:
+  app:
+   build: .
+   container_name: pipeline
+   restart: always
+   volumes:
+      - ./sequences:/code/sequences
+      - .:/code
+   ports:
+      - "8888:8888"
