@@ -25,7 +25,6 @@ def main():
 	moved = moveUndetermined(dataDirectory)
 
 	# Trim off the primers from the sequences
-	#Only looking for for primer in the for reads, and rev primer in the rev reads.
 	trimmedFor = runCutadaptFor(options,dataDirectory)
 	trimmedRev = runCutadaptRev(options,dataDirectory)
 
@@ -131,7 +130,8 @@ def runQiimePrep(options,directory):
 
 # Run Sickle SE to QC the joined up reads (tested with v1.33)
 def runSickleSE(options,directory):
-	minLength = calculateMeanLength(directory) - 50 #fwd primer that was trimmed off
+	minLength = calculateMeanLength(directory) - 30 #fwd primer that was trimmed off
+	print("Sickle SE minimum Length trimmed: " + str(minLength))
 	# Run sickle on each file in the directory (simultanously with parallel)
 	sickleSEcommand = "ls " + directory + "*.assembled.fastq | parallel -j " + str(options.threads) + " 'sickle se -f {} -t sanger -o {}.passedQC.fastq -n -l " + str(minLength) + " -q 30'"
 	sickleSEchild = subprocess.Popen(str(sickleSEcommand),
@@ -167,8 +167,10 @@ def calculateMeanLength(directory):
 					shell=(sys.platform!="win32"))
 		awkOutput, awkError = awkChild.communicate()
 		output = awkOutput.rstrip()
-		thismean = float(output)
-		means.append(thismean)
+        try:
+		    means.append(float(output))
+        except ValueError:
+            pass
 	mean = sum(means) / float(len(means))
 	return mean
 
@@ -230,6 +232,7 @@ def runSicklePE(options,directory):
 	# Now run sickle pe on each of the samples
 
 	for sampleName in sampleNames:
+		print("sicklePE for sample: " + sampleName)
 		sicklePEcommand = "sickle pe -f " + directory + sampleName + ".R1.fastq.gz.trimmed.fastq.gz -r " + directory + sampleName + ".R2.fastq.gz.trimmed.fastq.gz -t sanger -o "+directory + sampleName+".sickle.trimmed.R1.fastq.gz -p "+directory + sampleName+".sickle.trimmed.R2.fastq.gz -s "+directory + sampleName+".single.trimmed.fastq.gz -x"
 		sicklePEchild = subprocess.Popen(str(sicklePEcommand),
 						 stdout = subprocess.PIPE,
@@ -243,21 +246,33 @@ def runSicklePE(options,directory):
 		delr1 = os.remove(directory + sampleName + ".R1.fastq.gz.trimmed.fastq.gz")
 		delr2 = os.remove(directory + sampleName + ".R2.fastq.gz.trimmed.fastq.gz")
 		delsingle = os.remove(directory + sampleName + ".single.trimmed.fastq.gz")
-		# Move the raw data files into their own folder
+		#Move the raw data files into their own folder
 		move2 = os.rename(directory + sampleName + ".R1.fastq.gz",directory + "raw_data/" + sampleName + ".R1.fastq.gz")
 		move3 = os.rename(directory + sampleName + ".R2.fastq.gz",directory + "raw_data/" + sampleName + ".R2.fastq.gz")
 	return True
 
 # Run cutadapt (tested with v 1.9.1). The error rate is calculated based on the number of
 # degeneracies present in the primer sequences (cutadapte treats degeneracies as errors)
-def runCutadapt(options, directory):
+def runCutadaptFor(options, directory):
 	errorRate = calculateCutadaptError(options.forward,options.reverse)
 	# Run cutadapt on each file in the directory (simultaneously with parallel)
-	cutadaptCommand = "ls " + directory + "*.fastq.gz | parallel -j " + str(options.threads) + " 'cutadapt -e " + str(errorRate) + " -b " + str(options.forward) + " -b " + str(options.reverse) + " -o {}.trimmed.fastq.gz {}'"
+	cutadaptCommand = "ls " + directory + "*.R1.fastq.gz | parallel -j " + str(options.threads) + " 'cutadapt -e " + str(errorRate) + " -g " + str(options.forward) + " -o {}.trimmed.fastq.gz {}'"
 	cutadaptChild = subprocess.Popen(str(cutadaptCommand),
 					 stdout = subprocess.PIPE,
 					 stderr = subprocess.PIPE,
 					 universal_newlines = True,
+					 shell=(sys.platform!="win32"))
+	cutadaptOutput,cutadaptError = cutadaptChild.communicate()
+	print cutadaptOutput,cutadaptError
+	return True
+
+def runCutadaptRev(options, directory):
+	errorRate = calculateCutadaptError(options.forward,options.reverse)
+	# Run cutadapt on each file in the directory (simultaneously with parallel)
+	cutadaptCommand = "ls " + directory + "*.R2.fastq.gz | parallel -j " + str(options.threads) + " 'cutadapt -e " + str(errorRate) + " -g " + str(options.reverse) + " -o {}.trimmed.fastq.gz {}'"
+	cutadaptChild = subprocess.Popen(str(cutadaptCommand),
+					 stdout = subprocess.PIPE,
+					 stderr = subprocess.PIPE,
 					 shell=(sys.platform!="win32"))
 	cutadaptOutput,cutadaptError = cutadaptChild.communicate()
 	print cutadaptOutput,cutadaptError
@@ -296,11 +311,10 @@ def renameFiles(directory):
 		path,file = os.path.split(filename)
 		filenameSplit = re.split('_',file)
 		#print filename,path,file,filenameSplit
-
 		if (len(filenameSplit) == 1):
 			return None #break as the files must be formatted already and this is a re-run
 		else:
-			sampleName = filenameSplit[0]
+			sampleName = filenameSplit[0] + filenameSplit[1]
 			readDirection = filenameSplit[3]
 			newFilename = path + "/" + sampleName + "." + readDirection + ".fastq.gz"
 			rename = os.rename(filename,newFilename)
