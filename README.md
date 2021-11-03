@@ -112,4 +112,5 @@ The first file, **Abundances.fail.csv**, contains in the top row a list of the I
 lookuptable.txtfile in step 4.). Each cell will show the number of reads mappingto a particular strain for a particular sample.
 
 ################################################################
+
 Note: We have never been able to get the script applying the correct taxonomy for, or the lookup table script to work.
