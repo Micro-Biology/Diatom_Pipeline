@@ -1,6 +1,6 @@
 #!/bin/bash
 echo " Pipeline stated: $(date)"
-makeblastdb -in diatoms.sequences.FINAL2017.fasta -out diatoms -dbtype nucl
+makeblastdb -in corrected_barcodeUK_dada2.fasta -out diatoms -dbtype nucl
 echo " QC started: $(date)"
 python ./ampliconQC.py --data $1 --forward ATGCGTTGGAGAGARCGTTTC --reverse GATCACCTTCTAATTTACCWACAACTG --threads 130 --histograms --qiime
 echo " QIIME Pipeline: $(date)"
@@ -14,7 +14,7 @@ blastn -db diatoms -query $1/repset.fasta -out $1/repset.diatoms.blastn -task bl
 echo $(date)
 mkdir $1/assigned_taxonomy
 echo $(date)
-python ./create_taxonomy_assignments_from_blast.py --taxonomy diatoms.taxonomy.FINAL2017.txt --percid 95.0 --blast $1/repset.diatoms.blastn --output $1/assigned_taxonomy/repset.taxonomy.txt
+python ./create_taxonomy_assignments_from_blast.py --taxonomy corrected_barcodeUK_taxonomy.txt --percid 95.0 --blast $1/repset.diatoms.blastn --output $1/assigned_taxonomy/repset.taxonomy.txt
 echo $(date)
 make_otu_table.py -i $1/picked_otus_97/readyForQiime.allsamples_otus.txt -t $1/assigned_taxonomy/repset.taxonomy.txt -o $1/otu_table.biom
 echo " Lookup taxa from OTU table: $(date)"
