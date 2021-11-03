@@ -1,0 +1,1484 @@
+Strain	Code
+Diatom;Achnanthes;Achnanthes chlidanos;AC166A;KJ658394;	AC166A
+Diatom;Psammothidium;Psammothidium daonense;PSAM-06;KJ658395;	PSAM-06
+Diatom;Achnanthidium;Achnanthidium kranzii;ACHD-10;KJ658379;	ACHD-10
+Diatom;Achnanthidium;Achnanthidium reimeri;ACHD-11;KJ658387;	ACHD-11
+Diatom;Achnnathidium;Achnnathidium rivulare;ACHD-12;KJ658390;	ACHD-12
+Diatom;Achnanthidium;Achnanthidium saprophilum;ZZZ845;KM084941;	ZZZ845
+Diatom;Amphipleura;Amphipleura pellucida;AP001A;KC309549;	AP001A
+Diatom;Amphora;Amphora pediculus type;AMPH-05;KM084932;	AMPH-05
+Diatom;Amphora;Amphora pediculus type;AMPH-05;KM084934;	AMPH-05
+Diatom;Amphora;Amphora atomoides;AMPH-10;KM084979;	AMPH-10
+Diatom;Halamphora;Halamphora coffeaeformis;HALA-06;HQ912466;	HALA-06
+Diatom;Amphora;Amphora ovalis;AM001A;KM084926;	AM001A
+Diatom;Amphora;Amphora ovalis;AM001A;KM084927;	AM001A
+Diatom;Amphora;Amphora ovalis;AM001A;KM084928;	AM001A
+Diatom;Amphora;Amphora ovalis;AM001A;KM084978;	AM001A
+Diatom;Amphora;Amphora ovalis;AM001A;KM084993;	AM001A
+Diatom;Amphora;Amphora pediculus;AM012B;HQ912403;	AM012B
+Diatom;Amphora;Amphora pediculus;AM012B;KM084933;	AM012B
+Diatom;Asterionella;Asterionella formosa;AS001A;AB430671;	AS001A
+Diatom;Asterionella;Asterionella formosa;AS001A;HQ912497;	AS001A
+Diatom;Aulacoseira;Aulacoseira granulata;AU003D;HQ912470;	AU003D
+Diatom;Bacillaria;Bacillaria paxillifer;BA005A;HQ912491;	BA005A
+Diatom;Caloneis;Caloneis amphisbaena;CA006A;KM349972;	CA006A
+Diatom;Caloneis;Caloneis amphisbaena;CA006A;KM084980;	CA006A
+Diatom;Caloneis;Caloneis amphisbaena;CA006A;KM084983;	CA006A
+Diatom;Caloneis;Caloneis unknown;CALO-04;HQ912444;	CALO-04
+Diatom;Caloneis;Caloneis silicula;CA003A;KM084948;	CA003A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032978;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032998;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032969;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032978;	CP017A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032979;	SU074A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032980;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032997;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX033001;	CP017A
+Diatom;Campylodiscus;Campylodiscus clypeus;CP001A;HQ912398;	CP001A
+Diatom;Campylodiscus;Campylodiscus clypeus;CP001A;JX033021;	CP001A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032950;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032950;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032962;	CP017A
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032986;	CP017A
+Diatom;Campylodiscus;Campylodiscus marginatus;CAMP-02;JX032951;	CAMP-02
+Diatom;Campylodiscus;Campylodiscus marginatus;CAMP-02;JX032952;	CAMP-02
+Diatom;Campylodiscus;Campylodiscus marginatus;CAMP-02;JX032953;	CAMP-02
+Diatom;Campylodiscus;Campylodiscus marginatus;CAMP-02;JX032954;	CAMP-02
+Diatom;Campylodiscus;Campylodiscus striatus;CAMP-03;JX032957;	CAMP-03
+Diatom;Centronella;Centronella reicheltii;CENT-02;HQ912499;	CENT-02
+Diatom;Cocconeis;Cocconeis pediculus;CO005A;KM084991;	CO005A
+Diatom;Cocconeis;Cocconeis pediculus;CO005A;KM084929;	CO005A
+Diatom;Cocconeis;Cocconeis pediculus;CO005A;KM084977;	CO005A
+Diatom;Cocconeis;Cocconeis placentula;CO001A;HQ912456;	CO001A
+Diatom;Cocconeis;Cocconeis placentula;CO001A;KM084976;	CO001A
+Diatom;Coscinodiscus;Coscinodiscus wailesii;CS055A;HQ912532;	CS055A
+Diatom;Craticula;Craticula buderi;CRAT-06;KM084947;	CRAT-06
+Diatom;Craticula;Craticula cuspidata;CI004A;HQ912445;	CI004A
+Diatom;Craticula;Craticula cuspidata;CI004A;KM084985;	CI004A
+Diatom;Cyclophora;Cyclophora tenuis;CYCP-02;HQ912524;	CYCP-02
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;AB430665;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;DQ514774;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;DQ514775;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;DQ514777;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;DQ514781;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;DQ514782;	CY003A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;HQ912440;	CY003A
+Diatom;Cyclotella;Cyclotella ocellata;CY009A;DQ514832;	CY009A
+Diatom;Cyclotella;Cyclotella stylorum;CYCL-02;DQ514773;	CYCL-02
+Diatom;Cyclotella;Cyclotella atomus;CY011A;DQ514779;	CY011A
+Diatom;Cyclotella;Cyclotella bodanica;CY022A;DQ514829;	CY022A
+Diatom;Cyclotella;Cyclotella distinguenda;CY028A;DQ514780;	CY028A
+Diatom;Cyclotella;Cyclotella gamma;CYCL-01;DQ514772;	CYCL-01
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;KF959651;	CY003A
+Diatom;Cyclotella;Cyclotella pseudostelligera;CY002A;DQ514833;	CY002A
+Diatom;Cyclotella;Cyclotella striata;CY015A;DQ514771;	CY015A
+Diatom;Cymatopleura;Cymatopleura elliptica;CL002A;HQ912523;	CL002A
+Diatom;Cymatopleura;Cymatopleura elliptica;CL002A;JX033017;	CL002A
+Diatom;Cymatopleura;Cymatopleura solea;CL001A;JX033018;	CL001A
+Diatom;Cymbella;Cymbella helvetica;CM013A;KJ011804;	CM013A
+Diatom;Cymbella;Cymbella janischii;CYMB-11;KJ011805;	CYMB-11
+Diatom;Brebissonia;Brebissonia lanceolata;BREB-01;KJ011806;	BREB-01
+Diatom;Cymbella;Cymbella mexicana;CYMB-12;KJ011807;	CYMB-12
+Diatom;Cymbella;Cymbella stuxbergia;CYMB-13;KJ011810;	CYMB-13
+Diatom;Cymbella;Cymbella stuxbergia;CYMB-13;KJ011811;	CYMB-13
+Diatom;Cymbella;Cymbella aspera;CM005A;KJ011797;	CM005A
+Diatom;Cymbella;Cymbella aspera;CM005A;KJ011798;	CM005A
+Diatom;Cymbella;Cymbella aspera;CM005A;KJ011799;	CM005A
+Diatom;Cymbella;Cymbella baicalensis;CYMB-09;KJ011800;	CYMB-09
+Diatom;Cymbella;Cymbella cistula;CM006A;KJ011802;	CM006A
+Diatom;Cymbella;Cymbella cistula;CM006A;KJ011801;	CM006A
+Diatom;Cymbella;Cymbella proxima;CM030A;KJ011808;	CM030A
+Diatom;Cymbella;Cymbella tumida;CM042A;KJ011812;	CM042A
+Diatom;Cymbella;Cymbella tumida;CM042A;KJ011813;	CM042A
+Diatom;Diatoma;Diatoma tenue;DT004A;HQ912486;	DT004A
+Diatom;Diatoma;Diatoma tenue;DT004A;HQ912457;	DT004A
+Diatom;Encyonema;Encyonema caespitosum;EY002A;KJ011825;	EY002A
+Diatom;Encyonema;Encyonema triangulum;ENCY-10;KJ011828;	ENCY-10
+Diatom;Encyonema;Encyonema macedonicum;ENCY-08;KJ011821;	ENCY-08
+Diatom;Encyonema;Encyonema minutum;EY011A;KJ011822;	EY011A
+Diatom;Encyonema;Encyonema minutum;EY011A;KJ011824;	EY011A
+Diatom;Encyonema;Encyonema minutum;EY011A;KJ011824;	EY011A
+Diatom;Encyonema;Encyonema norvegicum;ENCY-09;KJ011826;	ENCY-09
+Diatom;Encyonema;Encyonema prostratum;EY004A;KJ011827;	EY004A
+Diatom;Encyonopsis;Encyonopsis;ENCS-08;KJ011829;	ENCS-08
+Diatom;Entomoneis;Entomoneis ornata;EN001A;HQ912397;	EN001A
+Diatom;Eunotia;Eunotia bilunaris;EU070A;HQ912463;	EU070A
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288152;	EUNO-05
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288153;	EUNO-05
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288154;	EUNO-05
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288155;	EUNO-05
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288156;	EUNO-05
+Diatom;Eunotia;Eunotia latitaenia;EUNO-05;KT288157;	EUNO-05
+Diatom;Eunotia;Eunotia glacialis;EU024A;HQ912450;	EU024A
+Diatom;Eunotia;Eunotia minor;EU110A;AY571744;	EU110A
+Diatom;Eunotia;Eunotia pectinalis;EU002A;HQ912500;	EU002A
+Diatom;Fallacia;Fallacia monoculata;FA016A;HQ912460;	FA016A
+Diatom;Fragilaria;Fragilaria bidens;FR026A;AB430676;	FR026A
+Diatom;Fragilaria;Fragilaria crotonensis;FR008A;KF959640;	FR008A
+Diatom;Fragilaria;Fragilaria famelica;FRAG-10;HQ912452;	FRAG-10
+Diatom;Fragilaria;Fragilaria perminuta;ZZZ842;KF959650;	ZZZ842
+Diatom;Fragilariforma;Fragilariforma virescens;FF001A;HQ912492;	FF001A
+Diatom;Gomphoneis;Gomphoneis minuta;GOMP-10;KJ011831;	GOMP-10
+Diatom;Gomphonema;Gomphonema clevei;GO024C;JQ354682;	GO024C
+Diatom;Gomphonema;Gomphonema acuminatum;GO006A;KJ011853;	GO006A
+Diatom;Gomphonema;Gomphonema affine;GO020A;KJ011833;	GO020A
+Diatom;Gomphonema;Gomphonema affine;GO020A;HQ912472;	GO020A
+Diatom;Gomphonema;Gomphonema affine;GO020A;KJ011834;	GO020A
+Diatom;Gomphonema;Gomphonema angustatum;GO003A;KJ011835;	GO003A
+Diatom;Gomphonema;Gomphonema bourbonense;GOMP-11;KC736595;	GOMP-11
+Diatom;Gomphonema;Gomphonema brebissonii;GO028A;KJ011836;	GO028A
+Diatom;Gomphonema;Gomphonema capitatum;GO031A;AY571751;	GO031A
+Diatom;Gomphonema;Gomphonema carolinense;GOMP-12;KJ011837;	GOMP-12
+Diatom;Gomphonema;Gomphonema lagenula;GOMP-13;JQ354681;	GOMP-13
+Diatom;Gomphonema;Gomphonema clevei;GO024C;JQ354694;	GO024C
+Diatom;Gomphonema;Gomphonema clevei;GO024C;KC736598;	GO024C
+Diatom;Gomphonema;Gomphonema dichotomum;GO036A;KJ011838;	GO036A
+Diatom;Gomphonema;Gomphonema vibrio;GO025H;KJ011841;	GO025H
+Diatom;Gomphonema;Gomphonema lagenula;GOMP-13;HG530054;	GOMP-13
+Diatom;Gomphonema;Gomphonema lagenula;GOMP-13;HG530055;	GOMP-13
+Diatom;Gomphonema;Gomphonema narodoense;GOMP-15;HG530052;	GOMP-15
+Diatom;Gomphonema;Gomphonema narodoense;GOMP-15;HG530053;	GOMP-15
+Diatom;Gomphonema;Gomphonema saprophilum;GOMP-16;HG530036;	GOMP-16
+Diatom;Gomphonema;Gomphonema saprophilum;GOMP-16;HG530051;	GOMP-16
+Diatom;Gomphonema;Gomphonema saprophilum;GOMP-16;HG530056;	GOMP-16
+Diatom;Gomphonema;Gomphonema subclavatum;GOMP-17;KJ011848;	GOMP-17
+Diatom;Gomphonema;Gomphonema subclavatum;GOMP-17;KJ011849;	GOMP-17
+Diatom;Gomphonema;Gomphonema lagenula;GOMP-13;HG530054;	GOMP-13
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;HQ912459;	GO013A
+Diatom;Gomphonema;Gomphonema saprophilum;GOMP-16;HG530051;	GOMP-16
+Diatom;Gyrosigma;Gyrosigma acuminatum;GY005A;HQ912462;	GY005A
+Diatom;Hantzschia;Hantzschia amphioxys var. major;HA001F;HQ912390;	HA001F
+Diatom;Karayevia;Karayevia;KARA-04;KM084931;	KARA-04
+Diatom;Lemnicola;Lemnicola hungarica;ZZZ900;HQ912490;	ZZZ900
+Diatom;Lemnicola;Lemnicola hungarica;ZZZ900;KJ658388;	ZZZ900
+Diatom;Luticola;Luticola sparsipunctata;LUTI-02;KM084940;	LUTI-02
+Diatom;Mayamaea;Mayamaea atomus var. permitis;MAYA-03;KM084957;	MAYA-03
+Diatom;Mayamaea;Mayamaea terrestris;MAYA-06;KM084975;	MAYA-06
+Diatom;Melosira;Melosira varians;ME015A;KC309611;	ME015A
+Diatom;Melosira;Melosira moniliformis;ME035A;KM592936;	ME035A
+Diatom;Navicula;Navicula cryptocephala;NA007A;KM999112;	NA007A
+Diatom;Navicula;Navicula duerrenbergiana;NA742A;AY571749;	NA742A
+Diatom;Navicula;Navicula cryptocephala;NA007A;HQ912467;	NA007A
+Diatom;Navicula;Navicula cryptocephala;NA007A;KC736601;	NA007A
+Diatom;Navicula;Navicula cryptocephala;NA007A;KM084944;	NA007A
+Diatom;Navicula;Navicula cryptocephala;NA007A;KM084946;	NA007A
+Diatom;Navicula;Navicula cryptotenella;NA751A;KM084994;	NA751A
+Diatom;Navicula;Navicula gregaria;NA023A;KM084949;	NA023A
+Diatom;Navicula;Navicula gregaria;NA023A;KM084954;	NA023A
+Diatom;Navicula;Navicula gregaria;NA023A;KM084960;	NA023A
+Diatom;Navicula;Navicula radiosa;NA003A;KM084955;	NA003A
+Diatom;Navicula;Navicula rhynchotella;ZZZ847;KM084950;	ZZZ847
+Diatom;Navicula;Navicula rhynchotella;ZZZ847;KM084951;	ZZZ847
+Diatom;Navicula;Navicula rhynchotella;ZZZ847;KM084952;	ZZZ847
+Diatom;Navicula;Navicula rhynchotella;ZZZ847;KM084953;	ZZZ847
+Diatom;Navicula;Navicula slesvicensis;NA080A;KM084942;	NA080A
+Diatom;Navicula;Navicula tripunctata;NA095A;KM084935;	NA095A
+Diatom;Navicula;Navicula tripunctata;NA095A;KM084986;	NA095A
+Diatom;Neidium;Neidium affine;NE003A;HQ912447;	NE003A
+Diatom;Neidium;Neidium bisulcatum;NE004A;HQ912455;	NE004A
+Diatom;Neidium;Neidium productum;NE002A;HQ912446;	NE002A
+Diatom;Nitzschia;Nitzschia ardua;NITZ-05;HF675061;	NITZ-05
+Diatom;Nitzschia;Nitzschia aequorea;NI060A;HF675062;	NI060A
+Diatom;Nitzschia;Nitzschia bulnheimiana;NITZ-06;HF675063;	NITZ-06
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;HF675066;	NI002A
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;HF675067;	NI002A
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;HF675068;	NI002A
+Diatom;Nitzschia;Nitzschia frustulum;NI008A;HF675069;	NI008A
+Diatom;Nitzschia;Nitzschia frustulum;NI008A;HF675070;	NI008A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675071;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675072;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675073;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675074;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675075;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675076;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675077;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675078;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675079;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675080;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675081;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675082;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675083;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675084;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675085;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675086;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675087;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675088;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675089;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675090;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675091;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675092;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675093;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675094;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675095;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675096;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675097;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675098;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675099;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675100;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675101;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;HF675102;	NI043A
+Diatom;Nitzschia;Nitzschia microcephala;NI027A;HF675103;	NI027A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675104;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675105;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675106;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675107;	NI009A
+Diatom;Nitzschia;Nitzschia pusilla;NI152A;HF675108;	NI152A
+Diatom;Nitzschia;Nitzschia pusilla;NI152A;HF675109;	NI152A
+Diatom;Nitzschia;Nitzschia pusilla;NI152A;HF675110;	NI152A
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;HF675111;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;HF675112;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;HF675113;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;HF675114;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;HF675115;	NITZ-03
+Diatom;Nitzschia;Nitzschia;NI9999;HF675116;	NI9999
+Diatom;Tryblionella;Tryblionella;TF9999;HF675117;	TF9999
+Diatom;Nitzschia;Nitzschia amphibia;NI014A;HF675118;	NI014A
+Diatom;Nitzschia;Nitzschia pusilla;NI152A;HF675119;	NI152A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675120;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675121;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675122;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675123;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675124;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675125;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675126;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675127;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;HF675128;	NI009A
+Diatom;Nitzschia;Nitzschia dubiiformis;NITZ-07;AB430696;	NITZ-07
+Diatom;Nitzschia;Nitzschia filiformis;NI098A;HQ912453;	NI098A
+Diatom;Nitzschia;Nitzschia filiformis;NI098A;HQ912453;	NI098A
+Diatom;Nitzschia;Nitzschia sigmoidea;NI046A;FN557033;	NI046A
+Diatom;Nitzschia;Nitzschia capitellata;NI028A;FN557030;	NI028A
+Diatom;Nitzschia;Nitzschia capitellata;NI028A;FN557031;	NI028A
+Diatom;Nitzschia;Nitzschia capitellata;NI028A;FN557032;	NI028A
+Diatom;Pinnularia;Pinnularia termitina;PI164A;HQ912465;	PI164A
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM084987;	PINN-05
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM084989;	PINN-05
+Diatom;Pinnularia;Pinnularia viridiformis;PINN-16;KM084988;	PINN-16
+Diatom;Pinnularia;Pinnularia karelica;PINN-09;KM350025;	PINN-09
+Diatom;Pinnularia;Pinnularia karelica;PINN-09;KM350026;	PINN-09
+Diatom;Pinnularia;Pinnularia parvulissima;PINN-10;KM349982;	PINN-10
+Diatom;Pinnularia;Pinnularia parvulissima;PINN-10;KM349988;	PINN-10
+Diatom;Pinnularia;Pinnularia parvulissima;PINN-10;KM350001;	PINN-10
+Diatom;Pinnularia;Pinnularia acrosphaeria;PINN-06;KM349970;	PINN-06
+Diatom;Pinnularia;Pinnularia acrosphaeria;PINN-06;KM350023;	PINN-06
+Diatom;Pinnularia;Pinnularia acrosphaeria;PINN-06;KM350027;	PINN-06
+Diatom;Pinnularia;Pinnularia brebissonii;PI048A;HQ912468;	PI048A
+Diatom;Pinnularia;Pinnularia gibba;PI001A;EF143304;	PI001A
+Diatom;Pinnularia;Pinnularia divergens;PI008A;KM350034;	PI008A
+Diatom;Pinnularia;Pinnularia grunowii;PINN-03;KM349987;	PINN-03
+Diatom;Pinnularia;Pinnularia isselana;PINN-08;KM350000;	PINN-08
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM349974;	PINN-05
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM349975;	PINN-05
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM349983;	PINN-05
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM350014;	PINN-05
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;KM349997;	PINN-05
+Diatom;Pinnularia;Pinnularia parvulissima;PINN-10;KM349985;	PINN-10
+Diatom;Pinnularia;Pinnularia septentrionalis;PINN-11;KM349995;	PINN-11
+Diatom;Pinnularia;Pinnularia septentrionalis;PINN-11;KM350008;	PINN-11
+Diatom;Pinnularia;Pinnularia shivae;PINN-12;KM350050;	PINN-12
+Diatom;Pinnularia;Pinnularia stomatophora;PI024A;KM350019;	PI024A
+Diatom;Pinnularia;Pinnularia stomatophora;PI024A;KM350022;	PI024A
+Diatom;Pinnularia;Pinnularia subcommutata var. nonfasciata;PINN-13;KM349994;	PINN-13
+Diatom;Pinnularia;Pinnularia subcommutata var. nonfasciata;PINN-13;KM350007;	PINN-13
+Diatom;Pinnularia;Pinnularia subcommutata var. nonfasciata;PINN-13;KM350010;	PINN-13
+Diatom;Pinnularia;Pinnularia subcommutata var. nonfasciata;PINN-13;KM350012;	PINN-13
+Diatom;Pinnularia;Pinnularia subgibba;PINN-14;KM349977;	PINN-14
+Diatom;Pinnularia;Pinnularia subgibba;PINN-14;KM349971;	PINN-14
+Diatom;Pinnularia;Pinnularia valida;PINN-15;KM350037;	PINN-15
+Diatom;Pinnularia;Pinnularia valida;PINN-15;KM350038;	PINN-15
+Diatom;Pinnularia;Pinnularia viridiformis;PINN-16;KM084981;	PINN-16
+Diatom;Pinnularia;Pinnularia viridiformis;PINN-16;KM349973;	PINN-16
+Diatom;Pinnularia;Pinnularia viridiformis;PINN-16;KM349976;	PINN-16
+Diatom;Pinnularia;Pinnularia viridis;PI007A;KM350020;	PI007A
+Diatom;Pinnularia;Pinnularia viridis;PI007A;KM350021;	PI007A
+Diatom;Placoneis;Placoneis abiskoensis;PLAC-09;KJ011850;	PLAC-09
+Diatom;Placoneis;Placoneis elginensis;ZZZ871;HQ912471;	ZZZ871
+Diatom;Placoneis;Placoneis elginensis;ZZZ871;KJ011852;	ZZZ871
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;KM084943;	ZZZ897
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;KJ658393;	ZZZ897
+Diatom;Planothidium;Planothidium caputium;PLAN-07;KM084938;	PLAN-07
+Diatom;Planothidium;Planothidium frequentissimum;ZZZ896;KJ658392;	ZZZ896
+Diatom;Planothidium;Planothidium frequentissimum;ZZZ896;KM084961;	ZZZ896
+Diatom;Planothidium;Planothidium frequentissimum;ZZZ896;KM084962;	ZZZ896
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;KJ658389;	ZZZ897
+Diatom;Pseudostaurosira;Pseudostaurosira brevistriata;PS001A;AB430688;	PS001A
+Diatom;Rhoicosphenia;Rhoicosphenia abbreviata;RC002A;KJ011854;	RC002A
+Diatom;Rhoicosphenia;Rhoicosphenia abbreviata;RC002A;KJ011855;	RC002A
+Diatom;Rossithidium;Rossithidium anastasiae;ROSS-03;KJ658396;	ROSS-03
+Diatom;Sellaphora;Sellaphora bacillum;ZZZ925;AY571745;	ZZZ925
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KM084945;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KM084958;	SL001A
+Diatom;Sellaphora;Sellaphora seminulum;SL002A;KM084937;	SL002A
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143263;	ZZZ864
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143318;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143317;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143314;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143312;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143308;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143306;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143302;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143300;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143298;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143297;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143296;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143294;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143292;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143285;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143278;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143275;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143272;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143271;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143270;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143269;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143266;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143264;	SL001A
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;JN418669;	SELL-14
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911815;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911814;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911813;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911812;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911811;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911810;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911809;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911808;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911807;	SL001A
+Diatom;Sellaphora;Sellaphora pupula;SL001A;KC911806;	SL001A
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;KC911805;	SELL-13
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;KC911804;	SELL-13
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;KC911803;	SELL-13
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143320;	SELL-13
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;EF143319;	SELL-14
+Diatom;Sellaphora;Sellaphora lanceolata;SELL-17;EF143315;	SELL-17
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143313;	ZZZ864
+Diatom;Sellaphora;Sellaphora bacillum;ZZZ925;EF143311;	ZZZ925
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;EF143310;	SELL-14
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143309;	ZZZ864
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143307;	ZZZ864
+Diatom;Sellaphora;Sellaphora lanceolata;SELL-17;EF143305;	SELL-17
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143303;	SELL-13
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143293;	ZZZ864
+Diatom;Sellaphora;Sellaphora pupula;SL001A;EF143291;	SL001A
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;EF143290;	SELL-14
+Diatom;Sellaphora;Sellaphora bacillum;ZZZ925;EF143284;	ZZZ925
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;EF143283;	SELL-14
+Diatom;Sellaphora;Sellaphora blackfordensis;SELL-14;EF143282;	SELL-14
+Diatom;Sellaphora;Sellaphora seminulum;SL002A;EF143280;	SL002A
+Diatom;Sellaphora;Sellaphora minima;SL003A;EF143279;	SL003A
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143277;	SELL-13
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143276;	SELL-13
+Diatom;Sellaphora;Sellaphora bacillum;ZZZ925;EF143273;	ZZZ925
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143268;	SELL-13
+Diatom;Sellaphora;Sellaphora auldreekie;SELL-13;EF143267;	SELL-13
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143265;	ZZZ864
+Diatom;Sellaphora;Sellaphora laevissima;ZZZ864;EF143263;	ZZZ864
+Diatom;Sellaphora;Sellaphora bacillum;ZZZ925;AY571745;	ZZZ925
+Diatom;Pinnularia;Pinnularia gibba;PI001A;EF143304;	PI001A
+Diatom;Seminavis;Seminavis robusta;SEMI-02;EF143299;	SEMI-02
+Diatom;Fallacia;Fallacia forcipata;FA007A;EF143289;	FA007A
+Diatom;Navicula;Navicula;NA9999;EF143288;	NA9999
+Diatom;Paralia;Paralia sulcata;PA001A;EF143287;	PA001A
+Diatom;Rossia;Rossia;ROSA-01;EF143281;	ROSA-01
+Diatom;Fallacia;Fallacia;FA9999;EF143274;	FA9999
+Diatom;Stauroneis;Stauroneis phoenicenteron;SA006A;KM084992;	SA006A
+Diatom;Stauroneis;Stauroneis unknown;STAR-03;HQ912443;	STAR-03
+Diatom;Fragilaria;Fragilaria construens;FR002A;HQ828194;	FR002A
+Diatom;Fragilaria;Fragilaria construens;FR002A;HQ912451;	FR002A
+Diatom;Staurosira;Staurosira construens;SR001A;KM592937;	SR001A
+Diatom;Staurosirella;Staurosirella pinnata;SS002A;HQ912484;	SS002A
+Diatom;Stenopterobia;Stenopterobia pumila;STEN-01;JX033016;	STEN-01
+Diatom;Stenopterobia;Stenopterobia curvula;SP006A;HQ912402;	SP006A
+Diatom;Stenopterobia;Stenopterobia pumila;STEN-01;JX033016;	STEN-01
+Diatom;Stephanodiscus;Stephanodiscus agassizensis;STEP-01;DQ514823;	STEP-01
+Diatom;Stephanodiscus;Stephanodiscus binderanus;ST015A;DQ514824;	ST015A
+Diatom;Stenopterobia;Stenopterobia;SP9999;DQ514825;	SP9999
+Diatom;Stephanodiscus;Stephanodiscus minutulus;ST021A;DQ514828;	ST021A
+Diatom;Stephanodiscus;Stephanodiscus neoastraea;ST022A;DQ514834;	ST022A
+Diatom;Stephanodiscus;Stephanodiscus niagarae;ST006A;DQ514835;	ST006A
+Diatom;Stephanodiscus;Stephanodiscus niagarae;ST006A;DQ514836;	ST006A
+Diatom;Stephanodiscus;Stephanodiscus yellowstonensis;STEP-02;DQ514838;	STEP-02
+Diatom;Stephanodiscus;Stephanodiscus minutulus;ST021A;DQ514839;	ST021A
+Diatom;Stephanodiscus;Stephanodiscus hantzschii;ST001A;DQ514842;	ST001A
+Diatom;Stephanodiscus;Stephanodiscus minutulus;ST021A;DQ514843;	ST021A
+Diatom;Stephanodiscus;Stephanodiscus minutulus;ST021A;DQ514844;	ST021A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032985;	SU074A
+Diatom;Surirella;Surirella splendida;SURI-07;JX032987;	SURI-07
+Diatom;Surirella;Surirella bifrons;SU074A;JX032988;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032989;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032994;	SU074A
+Diatom;Surirella;Surirella tenuissima;SURI-01;JX033010;	SURI-01
+Diatom;Surirella;Surirella costata;SURI-02;JX032949;	SURI-02
+Diatom;Surirella;Surirella iconella;SURI-04;JX032956;	SURI-04
+Diatom;Surirella;Surirella imbuta;SURI-05;JX032963;	SURI-05
+Diatom;Surirella;Surirella lineopunctata;SURI-06;JX032959;	SURI-06
+Diatom;Surirella;Surirella splendida;SURI-07;HQ912401;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032965;	SURI-07
+Diatom;Surirella;Surirella tenera;SU007A;JX033003;	SU007A
+Diatom;Surirella;Surirella tenuissima;SURI-01;JX033010;	SURI-01
+Diatom;Surirella;Surirella tenera;SU007A;JX033012;	SU007A
+Diatom;Surirella;Surirella linearis var. helvetica;SU005C;JX032972;	SU005C
+Diatom;Surirella;Surirella angusta;SU001A;JX033020;	SU001A
+Diatom;Surirella;Surirella biseriata;SU004A;JX033009;	SU004A
+Diatom;Surirella;Surirella capronii;SU024A;JX033000;	SU024A
+Diatom;Surirella;Surirella capronii;SU024A;JX032966;	SU024A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032979;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032985;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032988;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032989;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032994;	SU074A
+Diatom;Surirella;Surirella bifrons;SU074A;JX032999;	SU074A
+Diatom;Surirella;Surirella biseriata;SU004A;JX033006;	SU004A
+Diatom;Surirella;Surirella helissella;SURI-03;JX032955;	SURI-03
+Diatom;Surirella;Surirella iconella;SURI-04;JX032956;	SURI-04
+Diatom;Surirella;Surirella imbuta;SURI-05;JX032963;	SURI-05
+Diatom;Surirella;Surirella linearis var. helvetica;SU005C;JX032972;	SU005C
+Diatom;Surirella;Surirella linearis var. helvetica;SU005C;JX032973;	SU005C
+Diatom;Surirella;Surirella linearis var. helvetica;SU005C;JX032983;	SU005C
+Diatom;Surirella;Surirella lineopunctata;SURI-06;JX032959;	SURI-06
+Diatom;Surirella;Surirella ovalis;SU003A;JX033019;	SU003A
+Diatom;Surirella;Surirella ovalis;SU003A;JX033019;	SU003A
+Diatom;Surirella;Surirella splendida;SURI-07;JX032965;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032970;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032971;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032975;	SURI-07
+Diatom;Campylodiscus;Campylodiscus hibernicus;CP017A;JX032980;	CP017A
+Diatom;Surirella;Surirella splendida;SURI-07;JX032981;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032982;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032987;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032990;	SURI-07
+Diatom;Surirella;Surirella splendida;SURI-07;JX032995;	SURI-07
+Diatom;Surirella;Surirella tenera;SU007A;JX033003;	SU007A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;HQ912454;	ULNA-02
+Diatom;Synedropsis;Synedropsis recta;SYND-05;HQ912480;	SYND-05
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;HQ912448;	TA001A
+Diatom;Tabularia;Tabularia laevis;TABU-02;AB430690;	TABU-02
+Diatom;Tabularia;Tabularia tabulata;TABU-01;HQ912479;	TABU-01
+Diatom;Thalassiosira;Thalassiosira punctigera;THAL-02;DQ514807;	THAL-02
+Diatom;Thalassiosira;Thalassiosira punctigera;THAL-02;DQ514815;	THAL-02
+Diatom;Tryblionella;Tryblionella apiculata;TF003A;HQ912464;	TF003A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;5;	FRAG-11
+Diatom;Cymbella;Cymbella;CM9999;6;	CM9999
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;7;	ZZZ959
+Diatom;Diatoma;Diatoma moniliformis;DT022A;8;	DT022A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;9;	FRAG-03
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;12;	FRAG-11
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;13;	TA001A
+Diatom;Fragilaria;Fragilaria;FR9999;15;	FR9999
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;18;	FRAG-11
+Diatom;Diatoma;Diatoma tenue;DT004A;23;	DT004A
+Diatom;Ulnaria;Ulnaria acus;ULNA-01;24;	ULNA-01
+Diatom;Fragilaria;Fragilaria radians;FR059A;27;	FR059A
+Diatom;Cymbella;Cymbella;CM9999;29;	CM9999
+Diatom;Diatoma;Diatoma moniliformis;DT022A;30;	DT022A
+Diatom;Navicula;Navicula radiosa;NA003A;31;	NA003A
+Diatom;Fragilaria;Fragilaria;FR9999;32;	FR9999
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;34;	FRAG-11
+Diatom;Diatoma;Diatoma moniliformis;DT022A;35;	DT022A
+Diatom;Navicula;Navicula gregaria;NA023A;36;	NA023A
+Diatom;Fragilaria;Fragilaria perminuta;ZZZ842;38;	ZZZ842
+Diatom;Fragilaria;Fragilaria vaucheriae;FR007A;41;	FR007A
+Diatom;Fragilaria;Fragilaria vaucheriae;FR007A;42;	FR007A
+Diatom;Fragilaria;Fragilaria perminuta;ZZZ842;43;	ZZZ842
+Diatom;Navicula;Navicula lanceolata;NA009B;44;	NA009B
+Diatom;Fragilaria;Fragilaria vaucheriae;FR007A;46;	FR007A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;47;	FRAG-11
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;48;	FRAG-03
+Diatom;Diatoma;Diatoma moniliformis;DT022A;49;	DT022A
+Diatom;Diatoma;Diatoma moniliformis;DT022A;50;	DT022A
+Diatom;Diatoma;Diatoma moniliformis;DT022A;52;	DT022A
+Diatom;Navicula;Navicula lanceolata;NA009B;55;	NA009B
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;56;	FRAG-03
+Diatom;Pinnularia;Pinnularia grunowii;PINN-03;57;	PINN-03
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;58;	ACHD-02
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;61;	ULNA-02
+Diatom;Gomphonema;Gomphonema micropus;GO049A;62;	GO049A
+Diatom;Gomphonema;Gomphonema micropus;GO049A;63;	GO049A
+Diatom;Navicula;Navicula cryptocephala;NA007A;66;	NA007A
+Diatom;Navicula;Navicula radiosa;NA003A;68;	NA003A
+Diatom;Navicula;Navicula radiosa;NA003A;69;	NA003A
+Diatom;Encyonema;Encyonema silesiacum;EY016A;71;	EY016A
+Diatom;Navicula;Navicula lanceolata;NA009B;72;	NA009B
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;77;	ZZZ897
+Diatom;Amphora;Amphora pediculus;AM012B;79;	AM012B
+Diatom;Navicula;Navicula cryptotenella;NA751A;81;	NA751A
+Diatom;Adlafia;Adlafia minuscula;ADLA-03;82;	ADLA-03
+Diatom;Navicula;Navicula lanceolata;NA009B;84;	NA009B
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;85;	FRAG-11
+Diatom;Amphora;Amphora pediculus;AM012B;87;	AM012B
+Diatom;Eunotia;Eunotia minor;EU110A;88;	EU110A
+Diatom;Gomphonema;Gomphonema clavatum;GO029A;90;	GO029A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;91;	ULNA-02
+Diatom;Eunotia;Eunotia minor;EU110A;92;	EU110A
+Diatom;Nitzschia;Nitzschia palea;NI009A;95;	NI009A
+Diatom;Eunotia;Eunotia exigua;EU009A;101;	EU009A
+Diatom;Eunotia;Eunotia bilunaris;EU070A;102;	EU070A
+Diatom;Peronia;Peronia fibula;PE002A;104;	PE002A
+Diatom;Pinnularia;Pinnularia subcapitata;PI022A;105;	PI022A
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;107;	TA001A
+Diatom;Navicula;Navicula angusta;NA037A;108;	NA037A
+Diatom;Pinnularia;Pinnularia subcapitata;PI022A;111;	PI022A
+Diatom;Nitzschia;Nitzschia palea;NI009A;116;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;117;	NI009A
+Diatom;Gomphonema;Gomphonema exilissimum;GOMP-09;120;	GOMP-09
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;121;	FRAG-11
+Diatom;Pinnularia;Pinnularia;PI9999;122;	PI9999
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;123;	GO074A
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;124;	GO074A
+Diatom;Brachysira;Brachysira neoexilis;BR010A;125;	BR010A
+Diatom;Pinnularia;Pinnularia;PI9999;126;	PI9999
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;130;	GO074A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;134;	GO013A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;135;	FRAG-11
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;136;	TA001A
+Diatom;Gomphonema;Gomphonema exilissimum;GOMP-09;137;	GOMP-09
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;143;	FRAG-11
+Diatom;Brachysira;Brachysira vitrea;BR001A;144;	BR001A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;145;	ZZZ959
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;146;	TA001A
+Diatom;Eunotia;Eunotia exigua;EU009A;150;	EU009A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;153;	FRAG-11
+Diatom;Gomphonema;Gomphonema exilissimum;GOMP-09;156;	GOMP-09
+Diatom;Pinnularia;Pinnularia subcapitata;PI022A;159;	PI022A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;164;	GO013A
+Diatom;Gomphonema;Gomphonema exilissimum;GOMP-09;165;	GOMP-09
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;168;	GO013A
+Diatom;Fragilaria;Fragilaria vaucheriae;FR007A;171;	FR007A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;176;	ZZZ959
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;177;	FRAG-11
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;180;	ZZZ959
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;185;	FRAG-11
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;186;	GO074A
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;189;	TA001A
+Diatom;Pinnularia;Pinnularia microstauron;PI011A;190;	PI011A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;191;	FRAG-03
+Diatom;Nitzschia;Nitzschia palea;NI009A;193;	NI009A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;195;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;196;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;199;	FRAG-03
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;200;	GO074A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;203;	FRAG-03
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;204;	GO074A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;206;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;208;	ZZZ959
+Diatom;Nitzschia;Nitzschia palea;NI009A;210;	NI009A
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;211;	GO074A
+Diatom;Pinnularia;Pinnularia subcapitata;PI022A;212;	PI022A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;220;	ULNA-02
+Diatom;Nitzschia;Nitzschia palea;NI009A;225;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;227;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;234;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;236;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;240;	NI009A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;243;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;247;	FRAG-03
+Diatom;Gomphonema;Gomphonema hebridense;GO074A;250;	GO074A
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;252;	TA001A
+Diatom;Frustulia;Frustulia crassinveria;FRUS-03;256;	FRUS-03
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;257;	TA001A
+Diatom;Encyonema;Encyonema;EY9999;258;	EY9999
+Diatom;Encyonopsis;Encyonopsis falaisensis;ENCS-07;265;	ENCS-07
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;266;	FRAG-11
+Diatom;Eunotia;Eunotia bilunaris;EU070A;267;	EU070A
+Diatom;Eunotia;Eunotia exigua;EU009A;271;	EU009A
+Diatom;Frustulia;Frustulia crassinveria;FRUS-03;272;	FRUS-03
+Diatom;Navicula;Navicula lanceolata;NA009B;274;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;275;	NA009B
+Diatom;Nitzschia;Nitzschia palea;NI009A;277;	NI009A
+Diatom;Navicula;Navicula lanceolata;NA009B;280;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;284;	NA009B
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;285;	CY003A
+Diatom;Navicula;Navicula lanceolata;NA009B;286;	NA009B
+Diatom;Surirella;Surirella brebissonii;SU073A;290;	SU073A
+Diatom;Navicula;Navicula lanceolata;NA009B;294;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;296;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;297;	NA009B
+Diatom;Melosira;Melosira varians;ME015A;298;	ME015A
+Diatom;Navicula;Navicula lanceolata;NA009B;299;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;300;	NA009B
+Diatom;Thalassiosira;Thalassiosira weissfloggii;THAL-01;302;	THAL-01
+Diatom;Navicula;Navicula gregaria;NA023A;303;	NA023A
+Diatom;Surirella;Surirella brebissonii;SU073A;304;	SU073A
+Diatom;Melosira;Melosira varians;ME015A;306;	ME015A
+Diatom;Nitzschia;Nitzschia palea;NI009A;309;	NI009A
+Diatom;Gomphonema;Gomphonema pumilum;GO080A;311;	GO080A
+Diatom;Navicula;Navicula gregaria;NA023A;312;	NA023A
+Diatom;Encyonema;Encyonema minutum;EY011A;314;	EY011A
+Diatom;Navicula;Navicula gregaria;NA023A;316;	NA023A
+Diatom;Encyonema;Encyonema;EY9999;318;	EY9999
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;319;	FRAG-11
+Diatom;Surirella;Surirella brebissonii;SU073A;320;	SU073A
+Diatom;Navicula;Navicula lanceolata;NA009B;321;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;322;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;324;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;326;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;329;	NA009B
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;330;	NITZ-03
+Diatom;Navicula;Navicula lanceolata;NA009B;331;	NA009B
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;332;	NITZ-03
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;337;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;342;	ZZZ959
+Diatom;Fragilaria;Fragilaria;FR9999;343;	FR9999
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;344;	ULNA-02
+Diatom;Navicula;Navicula lanceolata;NA009B;353;	NA009B
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;358;	ULNA-02
+Diatom;Navicula;Navicula lanceolata;NA009B;363;	NA009B
+Diatom;Navicula;Navicula gregaria;NA023A;369;	NA023A
+Diatom;Encyonema;Encyonema minutum;EY011A;372;	EY011A
+Diatom;Nitzschia;Nitzschia palea;NI009A;373;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;375;	NI009A
+Diatom;Encyonema;Encyonema;EY9999;377;	EY9999
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;380;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;382;	FRAG-11
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;391;	ZZZ959
+Diatom;Achnanthes;Achnanthes pseudoswazi;AC004A;394;	AC004A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;398;	ZZZ959
+Diatom;Encyonopsis;Encyonopsis falaisensis;ENCS-07;400;	ENCS-07
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;407;	ZZZ959
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;409;	FRAG-11
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;432;	ZZZ959
+Diatom;Fragilaria;Fragilaria vaucheriae;FR007A;435;	FR007A
+Diatom;Encyonema;Encyonema minutum;EY011A;445;	EY011A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;450;	ZZZ959
+Diatom;Staurosira;Staurosira elliptica;SR002A;451;	SR002A
+Diatom;Gomphonema;Gomphonema truncatum;GO023A;457;	GO023A
+Diatom;Pinnularia;Pinnularia microstauron;PI011A;458;	PI011A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;467;	FRAG-11
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;468;	ZZZ959
+Diatom;Nitzschia;Nitzschia frustulum;NI008A;469;	NI008A
+Diatom;Nitzschia;Nitzschia dissipata;NI015A;470;	NI015A
+Diatom;Eunotia;Eunotia bilunaris;EU070A;471;	EU070A
+Diatom;Staurosira;Staurosira venter;STAU-03;475;	STAU-03
+Diatom;Nitzschia;Nitzschia paleacea;NI033A;483;	NI033A
+Diatom;Nitzschia;Nitzschia amphibia;NI014A;486;	NI014A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;487;	CY003A
+Diatom;Encyonema;Encyonema;EY9999;489;	EY9999
+Diatom;Diatoma;Diatoma tenue;DT004A;494;	DT004A
+Diatom;Staurosira;Staurosira venter;STAU-03;498;	STAU-03
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;499;	GO013A
+Diatom;Navicula;Navicula radiosa;NA003A;500;	NA003A
+Diatom;Nitzschia;Nitzschia amphibia;NI014A;503;	NI014A
+Diatom;Adlafia;Adlafia bryophila;ADLA-01;507;	ADLA-01
+Diatom;Staurosira;Staurosira venter;STAU-03;508;	STAU-03
+Diatom;Staurosira;Staurosira venter;STAU-03;509;	STAU-03
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;511;	FRAG-11
+Diatom;Fragilaria;Fragilaria capucina;FR009A;513;	FR009A
+Diatom;Fragilaria;Fragilaria capucina;FR009A;514;	FR009A
+Diatom;Melosira;Melosira varians;ME015A;523;	ME015A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;529;	CY003A
+Diatom;Thalassiosira;Thalassiosira weissfloggii;THAL-01;530;	THAL-01
+Diatom;Navicula;Navicula gregaria;NA023A;536;	NA023A
+Diatom;Navicula;Navicula lanceolata;NA009B;538;	NA009B
+Diatom;Surirella;Surirella brebissonii;SU073A;541;	SU073A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;543;	GO013A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;549;	ZZZ959
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;551;	FRAG-11
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;559;	ZZZ959
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;568;	GO013A
+Diatom;Gomphonema;Gomphonema;GO9999;569;	GO9999
+Diatom;Gomphonema;Gomphonema minutum;GO050A;572;	GO050A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;574;	ZZZ959
+Diatom;Fragilaria;Fragilaria rumpens;FRAG-12;575;	FRAG-12
+Diatom;Gomphonema;Gomphonema minutum;GO050A;586;	GO050A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;587;	ZZZ959
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;588;	GO013A
+Diatom;Eunotia;Eunotia minor;EU110A;590;	EU110A
+Diatom;Eunotia;Eunotia exigua;EU009A;592;	EU009A
+Diatom;Navicula;Navicula;NA9999;593;	NA9999
+Diatom;Nitzschia;Nitzschia palea;NI009A;603;	NI009A
+Diatom;Surirella;Surirella angusta;SU001A;604;	SU001A
+Diatom;Encyonema;Encyonema silesiacum;EY016A;612;	EY016A
+Diatom;Fragilaria;Fragilaria;FR9999;613;	FR9999
+Diatom;Tabellaria;Tabellaria flocculosa;TA001A;614;	TA001A
+Diatom;Gomphonema;Gomphonema acuminatum;GO006A;615;	GO006A
+Diatom;Eunotia;Eunotia bilunaris;EU070A;617;	EU070A
+Diatom;Fragilaria;Fragilaria capucina;FR009A;621;	FR009A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;622;	FRAG-11
+Diatom;Fragilaria;Fragilaria rumpens;FRAG-12;625;	FRAG-12
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;633;	CY003A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;634;	ZZZ959
+Diatom;Melosira;Melosira varians;ME015A;641;	ME015A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;643;	FRAG-11
+Diatom;Pseudostaurosira;Pseudostaurosira brevistriata;PS001A;645;	PS001A
+Diatom;Pseudostaurosira;Pseudostaurosira brevistriata;PS001A;647;	PS001A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;648;	CY003A
+Diatom;Nitzschia;Nitzschia dissipata;NI015A;649;	NI015A
+Diatom;Ulnaria;Ulnaria acus;ULNA-01;651;	ULNA-01
+Diatom;Gomphonema;Gomphonema acuminatum;GO006A;654;	GO006A
+Diatom;Surirella;Surirella brebissonii;SU073A;655;	SU073A
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;656;	CY003A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;657;	ULNA-02
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;658;	GO013A
+Diatom;Diatoma;Diatoma vulgare;DT003A;659;	DT003A
+Diatom;Nitzschia;Nitzschia palea;NI009A;660;	NI009A
+Diatom;Gomphonema;Gomphonema truncatum;GO023A;661;	GO023A
+Diatom;Fragilaria;Fragilaria;FR9999;662;	FR9999
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;665;	ULNA-02
+Diatom;Encyonema;Encyonema;EY9999;667;	EY9999
+Diatom;Ulnaria;Ulnaria acus;ULNA-01;668;	ULNA-01
+Diatom;Nitzschia;Nitzschia palea;NI009A;670;	NI009A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;671;	GO013A
+Diatom;Navicula;Navicula radiosa;NA003A;673;	NA003A
+Diatom;Nitzschia;Nitzschia paleacea;NI033A;675;	NI033A
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;676;	ACHD-02
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;678;	GO013A
+Diatom;Amphora;Amphora pediculus;AM012B;679;	AM012B
+Diatom;Navicula;Navicula radiosa;NA003A;680;	NA003A
+Diatom;Staurosira;Staurosira elliptica;SR002A;681;	SR002A
+Diatom;Melosira;Melosira varians;ME015A;683;	ME015A
+Diatom;Encyonema;Encyonema;EY9999;684;	EY9999
+Diatom;Cocconeis;Cocconeis placentula;CO001A;689;	CO001A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;690;	ZZZ959
+Diatom;Diatoma;Diatoma vulgare;DT003A;693;	DT003A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;698;	ULNA-02
+Diatom;Nitzschia;Nitzschia amphibia;NI014A;701;	NI014A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;702;	ULNA-02
+Diatom;Gomphonema;Gomphonema cymbelliclinum;GOMP-14;703;	GOMP-14
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;704;	ZZZ897
+Diatom;Ulnaria;Ulnaria acus;ULNA-01;706;	ULNA-01
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;707;	ACHD-02
+Diatom;Gomphonema;Gomphonema;GO9999;708;	GO9999
+Diatom;Surirella;Surirella angusta;SU001A;709;	SU001A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;711;	GO013A
+Diatom;Nitzschia;Nitzschia capitellata;NI028A;713;	NI028A
+Diatom;Navicula;Navicula tripunctata;NA095A;716;	NA095A
+Diatom;Rhoicosphenia;Rhoicosphenia abbreviata;RC002A;718;	RC002A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;720;	ULNA-02
+Diatom;Diatoma;Diatoma vulgare;DT003A;721;	DT003A
+Diatom;Nitzschia;Nitzschia amphibia;NI014A;722;	NI014A
+Diatom;Cocconeis;Cocconeis pediculus;CO005A;723;	CO005A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;725;	ZZZ959
+Diatom;Fragilaria;Fragilaria;FR9999;726;	FR9999
+Diatom;Navicula;Navicula radiosa;NA003A;728;	NA003A
+Diatom;Eunotia;Eunotia arcus;EU013A;729;	EU013A
+Diatom;Encyonopsis;Encyonopsis microcephala;ENCS-01;731;	ENCS-01
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;734;	FRAG-11
+Diatom;Hannaea;Hannaea arcus;HN001A;739;	HN001A
+Diatom;Eunotia;Eunotia implicata;EU107A;740;	EU107A
+Diatom;Eunotia;Eunotia bilunaris;EU070A;742;	EU070A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;743;	FRAG-11
+Diatom;Gomphonema;Gomphonema exilissimum;GOMP-09;745;	GOMP-09
+Diatom;Stauroneis;Stauroneis phoenicenteron;SA006A;752;	SA006A
+Diatom;Pinnularia;Pinnularia neomajor;PINN-05;758;	PINN-05
+Diatom;Neidium;Neidium dubium;NE007A;762;	NE007A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;764;	GO013A
+Diatom;Melosira;Melosira varians;ME015A;767;	ME015A
+Diatom;Surirella;Surirella angusta;SU001A;768;	SU001A
+Diatom;Nitzschia;Nitzschia recta;NI025A;769;	NI025A
+Diatom;Nitzschia;Nitzschia sociabilis;NI166A;501;	NI166A
+Diatom;Nitzschia;Nitzschia palea;NI009A;774;	NI009A
+Diatom;Navicula;Navicula gregaria;NA023A;777;	NA023A
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;778;	ZZZ897
+Diatom;Navicula;Navicula lanceolata;NA009B;779;	NA009B
+Diatom;Cyclotella;Cyclotella meneghiniana;CY003A;783;	CY003A
+Diatom;Pinnularia;Pinnularia;PI9999;785;	PI9999
+Diatom;Nitzschia;Nitzschia sigmoidea;NI046A;787;	NI046A
+Diatom;Fragilaria;Fragilaria;FR9999;791;	FR9999
+Diatom;Eunotia;Eunotia bilunaris;EU070A;794;	EU070A
+Diatom;Nitzschia;Nitzschia recta;NI025A;795;	NI025A
+Diatom;Navicula;Navicula gregaria;NA023A;796;	NA023A
+Diatom;Navicula;Navicula;NA9999;800;	NA9999
+Diatom;Reimeria;Reimeria sinuata;RE001A;802;	RE001A
+Diatom;Encyonema;Encyonema silesiacum;EY016A;804;	EY016A
+Diatom;Melosira;Melosira varians;ME015A;809;	ME015A
+Diatom;Surirella;Surirella brebissonii;SU073A;816;	SU073A
+Diatom;Navicula;Navicula lanceolata;NA009B;817;	NA009B
+Diatom;Parlibellus;Parlibellus protracta;PARL-01;818;	PARL-01
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;819;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;823;	FRAG-03
+Diatom;Encyonema;Encyonema minutum;EY011A;826;	EY011A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;836;	ULNA-02
+Diatom;Eunotia;Eunotia bilunaris;EU070A;837;	EU070A
+Diatom;Hannaea;Hannaea arcus;HN001A;839;	HN001A
+Diatom;Psammothidium;Psammothidium bioretii;ZZZ910;840;	ZZZ910
+Diatom;Navicula;Navicula gregaria;NA023A;841;	NA023A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;842;	FRAG-11
+Diatom;Surirella;Surirella brebissonii;SU073A;843;	SU073A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;844;	FRAG-11
+Diatom;Nitzschia;Nitzschia palea;NI009A;846;	NI009A
+Diatom;Encyonema;Encyonema silesiacum;EY016A;847;	EY016A
+Diatom;Nitzschia;Nitzschia palea;NI009A;848;	NI009A
+Diatom;Meridion;Meridion circulare;MR001A;849;	MR001A
+Diatom;Nitzschia;Nitzschia sublinearis;NI024A;850;	NI024A
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;853;	FRAG-03
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;855;	FRAG-11
+Diatom;Planothidium;Planothidium lanceolatum;ZZZ897;865;	ZZZ897
+Diatom;Nitzschia;Nitzschia dissipata;NI015A;866;	NI015A
+Diatom;Navicula;Navicula gregaria;NA023A;867;	NA023A
+Diatom;Nitzschia;Nitzschia dissipata;NI015A;868;	NI015A
+Diatom;Navicula;Navicula upsaliensis;NAVI-10;869;	NAVI-10
+Diatom;Gomphonema;Gomphonema acuminatum;GO006A;875;	GO006A
+Diatom;Stephanodiscus;Stephanodiscus hantzschii;ST001A;876;	ST001A
+Diatom;Ulnaria;Ulnaria ulna;ULNA-02;881;	ULNA-02
+Diatom;Thalassiosira;Thalassiosira weissfloggii;THAL-01;883;	THAL-01
+Diatom;Melosira;Melosira varians;ME015A;886;	ME015A
+Diatom;Sellaphora;Sellaphora seminulum;SL002A;893;	SL002A
+Diatom;Gomphonema;Gomphonema clavatum;GO029A;901;	GO029A
+Diatom;Nitzschia;Nitzschia palea;NI009A;905;	NI009A
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;906;	ACHD-02
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;907;	FRAG-11
+Diatom;Nitzschia;Nitzschia palea;NI009A;910;	NI009A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;911;	ZZZ959
+Diatom;Nitzschia;Nitzschia palea;NI009A;912;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;913;	NI009A
+Diatom;Planothidium;Planothidium frequentissimum;ZZZ896;914;	ZZZ896
+Diatom;Eolimna;Eolimna minima;EOLI-01;gAM710427;	EOLI-01
+Diatom;Eunotia;Eunotia formica;EU018A;gAM710428;	EU018A
+Diatom;Cyclotella;Cyclotella distinguenda;CY028A;gDQ514780;	CY028A
+Diatom;Sellaphora;Sellaphora minima;SL003A;gEF143279;	SL003A
+Diatom;Staurosira;Staurosira elliptica;SR002A;gHQ828193;	SR002A
+Diatom;Amphora;Amphora pediculus;AM012B;gHQ912403;	AM012B
+Diatom;Staurosira;Staurosira construens;SR001A;gHQ912451;	SR001A
+Diatom;Eolimna;Eolimna;EOLI-06;gJQ610175;	EOLI-06
+Diatom;Sellaphora;Sellaphora minima;SL003A;gKF959642;	SL003A
+Diatom;Achnanthes;Achnanthes oblongella;AC143A;iDTM100_4;	AC143A
+Diatom;Eolimna;Eolimna minima;EOLI-01;iDTM42_1080;	EOLI-01
+Diatom;Achnanthes;Achnanthes conspicua;AC023A;iDTM42_17;	AC023A
+Diatom;Eolimna;Eolimna minima;EOLI-01;iDTM42_2671;	EOLI-01
+Diatom;Eolimna;Eolimna minima;EOLI-01;iDTM42_719;	EOLI-01
+Diatom;Eolimna;Eolimna minima;EOLI-01;iDTM44_274;	EOLI-01
+Diatom;Eunotia;Eunotia formica;EU018A;iDTM47_46;	EU018A
+Diatom;Eolimna;Eolimna minima;EOLI-01;iDTM96_900;	EOLI-01
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;iDTM98_32;	ZZZ959
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAB266740;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAB280609;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAB280612;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF015587;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF015588;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF015589;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF064743;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF064744;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF084610;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF084611;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF084612;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF207527;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF465706;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF465707;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF465708;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF465709;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476927;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476928;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476929;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476930;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476931;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476932;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476933;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476934;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476935;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476936;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476937;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476938;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476939;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476940;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476941;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476942;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476943;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476944;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476945;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476946;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476947;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476948;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476949;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476950;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476951;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476952;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476953;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476954;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476955;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476956;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476957;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAF476958;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579564;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579565;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579566;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579567;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579568;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579569;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579570;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579571;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579572;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579573;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579574;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ579575;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ580924;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ580925;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ580926;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ580947;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ580948;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ871362;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874329;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874330;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874331;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874332;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874333;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874334;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874335;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874336;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874337;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874338;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874339;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874340;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874698;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874699;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874700;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874701;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874702;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874703;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874704;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874705;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874706;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874707;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874708;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874709;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874710;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874711;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874712;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874713;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874714;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAJ874715;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAM421002;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAM421003;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAM421004;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAM695634;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAM695635;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682398;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682399;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682400;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682401;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682402;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682403;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682404;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682405;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682406;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682407;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682408;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682409;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682410;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682411;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682412;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682413;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682414;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682416;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682417;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682418;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682419;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682420;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682421;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682422;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682423;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682424;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682426;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682427;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682428;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682429;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682430;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682431;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682432;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682433;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682434;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682435;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682436;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682437;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682438;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682439;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682440;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682441;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682442;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682443;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682444;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682445;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682446;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682447;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682448;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682449;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682450;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682451;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682452;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682453;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682454;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682455;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682456;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682457;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682458;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682459;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nAY682460;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nBFU89900;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nDTM99_33;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nDTM99_49;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426792;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426793;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426794;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426795;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426796;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426797;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF426797;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF431847;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF431848;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF431849;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF431850;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF431851;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455920;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455921;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455922;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455923;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455924;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455925;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455926;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455927;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455928;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455929;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455930;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455931;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455932;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455933;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455935;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455937;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455938;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455939;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455940;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455941;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455942;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455943;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455944;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455945;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455948;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455950;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455951;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455953;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455954;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455955;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455956;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455957;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455958;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455959;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455960;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455961;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455962;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455963;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455964;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455965;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455966;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455967;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455968;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455969;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455970;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455971;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455972;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455973;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455974;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455975;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455977;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455978;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455979;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455980;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455981;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF455982;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460489;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460490;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460491;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460492;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460493;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF460494;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF589158;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nEF589159;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nFJ858974;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nGQ405018;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHE573279;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHE573280;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHE573281;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHE573282;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHE573283;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184441;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184443;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184444;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184447;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184448;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184449;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184450;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184451;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184452;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ184455;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ710608;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nHQ710633;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJN573801;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJN573802;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJQ967036;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681201;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681202;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681203;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681205;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681206;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681207;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681208;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681209;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681210;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681211;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681212;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681213;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681215;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681216;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681217;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681218;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681220;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681221;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681222;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681223;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681224;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nJX681226;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKC184837;	Yellow_green_Algae
+Diatom;Actinocyclus;Actinocyclus;AT9999;nKC309594;	AT9999
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKC346361;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKF523894;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKF523909;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKF523912;	Yellow_green_Algae
+Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;Yellow_green_Algae;nKF523915;	Yellow_green_Algae
+Diatom;Eolimna;Eolimna minima;EOLI-01;s495;	EOLI-01
+Diatom;Fistulifera;Fistulifera saprophila;FIST-01;gKF959644;	FIST-01
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;53;	NI002A
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;461;	NI002A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gKC736607;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gKC736606;	NI043A
+Diatom;Staurosira;Staurosira elliptica;SR002A;451;	SR002A
+Diatom;Nitzschia;Nitzschia sociabilis;NI166A;501;	NI166A
+Diatom;Reimeria;Reimeria sinuata;RE001A;860;	RE001A
+Diatom;Navicula;Navicula tripunctata;NA095A;gAM710495;	NA095A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675102;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675101;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675100;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675099;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675098;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675097;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675096;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675095;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675094;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675093;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675092;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675091;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675090;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675089;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675088;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675087;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675086;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675085;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675084;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675083;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675082;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675081;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675080;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675079;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675078;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675077;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675076;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675075;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675074;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675073;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675072;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675071;	NI043A
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675115;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675114;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675113;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675112;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675111;	NITZ-03
+Diatom;Fistulifera;Fistulifera saprophila;FIST-01;gKF959644;	FIST-01
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;53;	NI002A
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;461;	NI002A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gKC736607;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gKC736606;	NI043A
+Diatom;Staurosira;Staurosira elliptica;SR002A;451;	SR002A
+Diatom;Nitzschia;Nitzschia sociabilis;NI166A;501;	NI166A
+Diatom;Reimeria;Reimeria sinuata;RE001A;860;	RE001A
+Diatom;Navicula;Navicula tripunctata;NA095A;gAM710495;	NA095A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675102;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675101;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675100;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675099;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675098;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675097;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675096;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675095;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675094;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675093;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675092;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675091;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675090;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675089;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675088;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675087;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675086;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675085;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675084;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675083;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675082;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675081;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675080;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675079;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675078;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675077;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675076;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675075;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675074;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675073;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675072;	NI043A
+Diatom;Nitzschia;Nitzschia inconspicua;NI043A;gHF675071;	NI043A
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675115;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675114;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675113;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675112;	NITZ-03
+Diatom;Nitzschia;Nitzschia soratensis;NITZ-03;gHF675111;	NITZ-03
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;80;	ACHD-02
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;140;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;183;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;152;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;60;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;155;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;231;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;238;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;399;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;405;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;417;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;419;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;422;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;424;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;434;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;436;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;437;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;438;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;446;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;447;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;449;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;455;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;456;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;473;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;474;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;477;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;542;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;544;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;545;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;546;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;547;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;548;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;550;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;557;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;727;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;903;	ACHD-02
+Diatom;Achnanthidium;Achnanthidium pyrenaicum;ACHD-02;666;	ACHD-02
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;552;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;554;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;560;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;562;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;565;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;571;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;573;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;576;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;577;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;580;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;589;	ZZZ959
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;595;	ZZZ959
+Diatom;Adlafia;Adlafia minuscula;ADLA-03;892;	ADLA-03
+Diatom;Brachysira;Brachysira neoexilis;BR010A;396;	BR010A
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;28;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;139;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;142;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;148;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;151;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;158;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;162;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;166;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;167;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;169;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;170;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;173;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;174;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;175;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;178;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;241;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;378;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;379;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;381;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;383;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;385;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;387;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;388;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;404;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;410;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;412;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;414;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;488;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;515;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;516;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;517;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;555;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;591;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;741;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;746;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;845;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;852;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;854;	FRAG-11
+Diatom;Fragilaria;Fragilaria gracilis;FRAG-11;856;	FRAG-11
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;205;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;245;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;246;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;248;	FRAG-03
+Diatom;Fragilaria;Fragilaria pararumpens;FRAG-03;249;	FRAG-03
+Diatom;Fragilaria;Fragilaria tenera;FR060A;732;	FR060A
+Diatom;Achnanthidium;Achnanthidium minutissimum;ZZZ959;556;	ZZZ959
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;567;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;570;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;579;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;581;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;582;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;583;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;584;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;585;	GO013A
+Diatom;Gomphonema;Gomphonema parvulum;GO013A;594;	GO013A
+Diatom;Gomphonema;Gomphonema pseudobohemicum;GOMP-08;705;	GOMP-08
+Diatom;Mayamaea;Mayamaea atomus var. permitis;MAYA-03;715;	MAYA-03
+Diatom;Mayamaea;Mayamaea atomus var. permitis;MAYA-03;790;	MAYA-03
+Diatom;Fistulifera;Fistulifera solaris;FIST-04;808;	FIST-04
+Diatom;Hippodonta;Hippodonta capitata;HIPP-01;527;	HIPP-01
+Diatom;Navicula;Navicula cryptocephala;NA007A;760;	NA007A
+Diatom;Navicula;Navicula cryptocephala;NA007A;793;	NA007A
+Diatom;Navicula;Navicula cryptotenella;NA751A;864;	NA751A
+Diatom;Navicula;Navicula lanceolata;NA009B;519;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;521;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;522;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;526;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;528;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;531;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;534;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;535;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;539;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;540;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;598;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;599;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;602;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;765;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;766;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;797;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;798;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;811;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;812;	NA009B
+Diatom;Navicula;Navicula lanceolata;NA009B;813;	NA009B
+Diatom;Navicula;Navicula trivialis;NA063A;775;	NA063A
+Diatom;Navicula;Navicula veneta;NA054A;909;	NA054A
+Diatom;Nitzschia;Nitzschia acicularis;NI042A;325;	NI042A
+Diatom;Nitzschia;Nitzschia acidoclinata;NI030A;619;	NI030A
+Diatom;Nitzschia;Nitzschia acidoclinata;NI030A;98;	NI030A
+Diatom;Nitzschia;Nitzschia perminuta;NI005A;838;	NI005A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;83;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;273;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;669;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;696;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;712;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;815;	NI031A
+Diatom;Nitzschia;Nitzschia linearis;NI031A;897;	NI031A
+Diatom;Nitzschia;Nitzschia palea;NI009A;39;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;202;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;605;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;748;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;776;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;786;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;788;	NI009A
+Diatom;Nitzschia;Nitzschia palea;NI009A;789;	NI009A
+Diatom;Nitzschia;Nitzschia perminuta;NI005A;730;	NI005A
+Diatom;Nitzschia;Nitzschia pusilla;NI152A;333;	NI152A
+Diatom;Nitzschia;Nitzschia fonticola;NI002A;650;	NI002A
+Diatom;Nitzschia;Nitzschia sigma;NI006A;308;	NI006A
+Diatom;Nitzschia;Nitzschia;NI9999;822;	NI9999
+Diatom;Nitzschia;Nitzschia;NI9999;76;	NI9999
+Diatom;Pinnularia;Pinnularia microstauron;PI011A;269;	PI011A
+Diatom;Sellaphora;Sellaphora joubaudii;SELL-01;710;	SELL-01
+Diatom;Ulnaria;Ulnaria acus;ULNA-01;33;	ULNA-01
+Diatom;Tryblionella;Tryblionella debilis;ZZZ985;502;	ZZZ985
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JF502540;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC145515;	NOT_DIATOM
+Marine_Diatom;MARINE;MARINE;MARINE;AY307409;	MARINE
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC596166;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ393128;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC134346;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KF975603;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JX841225;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KF693813;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JN573830;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JN573860;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;U43070;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC810316;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ713926;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ394813;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ481206;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ481213;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ481212;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ481204;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;GU810834;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113450;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113415;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KF693820;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ315485;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;AB511846;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113477;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;DQ196177;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;FM992353;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113451;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KM226206;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;AB084332;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113437;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;D86837;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;GU192427;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;GU810834;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ713935;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JN102134;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC810302;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KF975597;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF589154;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;GU192437;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ713936;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113407;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JN880463;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JQ394814;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113475;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF589147;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;FJ715715;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KF975599;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113448;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113466;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC810299;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF078370;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;KC810301;	NOT_DIATOM
+Marine_Diatom;MARINE;MARINE;MARINE;AB491655;	MARINE
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;AB383150;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF113418;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;EF078393;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;JN880465;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;HE860265;	NOT_DIATOM
+NOT_Diatom;NOT_DIATOM;NOT_DIATOM;NOT_DIATOM;HF674884;	NOT_DIATOM
+Diatom;Achnanthidium;Achnanthidium coarctatum;ACHD-09;HQ912458;	ACHD-09
+Diatom;Aulacoseira;Aulacoseira granulata;AU003D;AY569604;	AU003D
+Diatom;Bacillaria;Bacillaria paxillifer;BA005A;HQ912491;	BA005A
+Diatom;Caloneis;Caloneis silicula;CA003A;JN418663;	CA003A
+Diatom;Ctenophora;Ctenophora pulchella;YH001A;HQ912475;	YH001A
+Diatom;Cyclostephanos;Cyclostephanos dubius;CC001A;HQ912439;	CC001A
+Diatom;Cymatopleura;Cymatopleura solea;CL001A;JX033018;	CL001A
+Diatom;Cymbopleura;Cymbopleura naviculiformis;CYMB-01;AM710464;	CYMB-01
+Diatom;Nitzschia;Nitzschia denticula;ZZZ989;HQ912474;	ZZZ989
+Diatom;Didymosphenia;Didymosphenia dentata;DIDY-01;KJ011818;	DIDY-01
+Diatom;Diploneis;Diploneis subovalis;DP061A;HQ912461;	DP061A
+Diatom;Ellerbeckia;Ellerbeckia;ZZZ994;KJ577892;	ZZZ994
+Diatom;Fallacia;Fallacia pygmaea;FA001A;HQ912469;	FA001A
+Diatom;Fragilariforma;Fragilariforma virescens;FF001A;HQ912492;	FF001A
+Diatom;Geissleria;Geissleria decussis;GEIS-02;KJ011830;	GEIS-02
+Diatom;Karayevia;Karayevia;KARA-04;KM084931;	KARA-04
+Diatom;Neidium;Neidium affine;NE003A;AM710508;	NE003A
+Diatom;Parlibellus;Parlibellus hamulifer;PARL-02;KJ577903;	PARL-02
+Diatom;Placoneis;Placoneis clementis;ZZZ872;KJ011851;	ZZZ872
+Diatom;Rhopalodia;Rhopalodia gibba;RH001A;HQ912393;	RH001A
+Diatom;Staurosirella;Staurosirella pinnata;SS002A;HQ912484;	SS002A
+Diatom;Staurosirella;Staurosirella martyi;STAS-02;HQ828192;	STAS-02
+Diatom;Halamphora;Halamphora montana;HALA-02;TCC477;	HALA-02
+Diatom;Asterionella;Asterionella formosa;AS001A;TCC362;	AS001A
+Diatom;Lemnicola;Lemnicola hungarica;ZZZ900;TCC496;	ZZZ900
+Diatom;Cocconeis;Cocconeis euglypta;COCO-02;French2541;	COCO-02
+Diatom;Cocconeis;Cocconeis placentula;CO001A;French8600;	CO001A
+Diatom;Gomphonema;Gomphonema pumilum;GO080A;French2366;	GO080A
+Diatom;Gomphonema;Gomphonema rosenstockianum;GOMP-18;French2551;	GOMP-18
+Diatom;Amphora;Amphora pediculus;AM012B;French8446;	AM012B
+Diatom;Luticola;Luticola;LU9999;French5711;	LU9999
+Diatom;Luticola;Luticola sparsipunctata;LUTI-02;French8452;	LUTI-02
+Diatom;Luticola;Luticola ventricosa;LU009A;French8192;	LU009A
