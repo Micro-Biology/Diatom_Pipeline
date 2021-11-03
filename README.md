@@ -111,4 +111,5 @@ After running to completion the pipeline will output two files.
 The first file, **Abundances.fail.csv**, contains in the top row a list of the IDs of the samples which failed QC,i.e. samples returning <3000 sequences after quality trimming and read merging. The second file, **Abundances.pass.csv**, contains a list of all samples that have passed QC.Column 1 lists the identity (strain ID)of each of strainsidentifiedin each sample and row 1 lists the sample ID (taken from the
 lookuptable.txtfile in step 4.). Each cell will show the number of reads mappingto a particular strain for a particular sample.
 
-
+################################################################
+Note: We have never been able to get the script applying the correct taxonomy for, or the lookup table script to work.
